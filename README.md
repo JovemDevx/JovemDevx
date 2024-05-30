@@ -1,16 +1,14 @@
-## Hi there 👋
+### Ola! Eu sou o Nicolas Bruno 👋
 
-<!--
-**JovemDevx/JovemDevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JovemDevx](https://github-readme-stats.vercel.app/api?username=JovemDevx&show_icons=true&theme=dracula)
 
-Here are some ideas to get you started:
+## Tecnologia que utilizo no meu dia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div styele = "display:  inline_block"><br/>
+
+<img aling="center" alt="htmls5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img aling="center" alt="htmls5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img aling="center" alt="htmls5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+
+### Um código por vez, uma linha de cada vez, cada erro é uma oportunidade de aprendizado. Mantenha-se persistente, pois cada desafio superado te aproxima mais do domínio da arte da programação."
